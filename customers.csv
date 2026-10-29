@@ -1,0 +1,11 @@
+customer_id,name,city,segment,spend_usd
+1,Sample Customer 1,Denver,Business,37
+2,Sample Customer 2,Seattle,Retail,74
+3,Sample Customer 3,Austin,Business,111
+4,Sample Customer 4,Denver,Retail,148
+5,Sample Customer 5,Seattle,Business,185
+6,Sample Customer 6,Austin,Retail,222
+7,Sample Customer 7,Denver,Business,259
+8,Sample Customer 8,Seattle,Retail,296
+9,Sample Customer 9,Austin,Business,333
+10,Sample Customer 10,Denver,Retail,370

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Product 1",
+    "category": "Demo",
+    "price_usd": 12.5
+  },
+  {
+    "id": 2,
+    "name": "Sample Product 2",
+    "category": "Demo",
+    "price_usd": 25.0
+  },
+  {
+    "id": 3,
+    "name": "Sample Product 3",
+    "category": "Demo",
+    "price_usd": 37.5
+  },
+  {
+    "id": 4,
+    "name": "Sample Product 4",
+    "category": "Demo",
+    "price_usd": 50.0
+  },
+  {
+    "id": 5,
+    "name": "Sample Product 5",
+    "category": "Demo",
+    "price_usd": 62.5
+  }
+]
